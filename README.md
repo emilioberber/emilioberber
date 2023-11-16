@@ -1,3 +1,4 @@
+![banner](https://github.com/emilioberber/emilioberber/assets/108374590/5bdae989-3f63-44c9-a3ef-812a3968474e)
 <h1 align="center">I'm Emilio Berber</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 <img align="right" alt="Coding" width="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
