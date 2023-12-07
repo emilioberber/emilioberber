@@ -27,6 +27,7 @@
 </p>
 
 <p align="left">
+
   <img src="https://api.githubtrends.io/user/svg/emilioberber/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves"
   />
 </p>
