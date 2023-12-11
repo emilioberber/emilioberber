@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Computer Science student</h3>
 <img align="right" alt="Coding" width="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-- 🌱 I’m currently learning: **Swift and React Native**
+- 🌱 I’m currently learning: **Swift**
 
-- 💬 Ask me about: **Android, Kotlin, JS**
+- 💬 Ask me about: **Android, Kotlin, JavaScript**
 
 - 📫 How to reach me: **emilioberber@hotmail.com**
 
