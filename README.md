@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning: **Swift**
 
-- 💬 Ask me about: **Android, Kotlin, JavaScript**
+- 💬 Ask me about: **Android and JavaScript**
 
-- 📫 How to reach me: **emilioberber@hotmail.com**
+- 📫 How to reach me: **emilioberber@hotmail.com** or **A01640603@tec.mx**
 
-- ⚡ Fun fact: **In love with Front-End**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
